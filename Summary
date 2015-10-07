@@ -1,0 +1,241 @@
+# 2013 data Fe 2
+N       
+1.76440   674 0.0268 0.75 (AHOHIP_Fe1) 0.0
+1.56494   717 0.0259 0.27 (NIQFUP06_Fe1) 0.025804476676
+0.02202 
+0.02244 
+N       
+1.76440   674 0.0268 0.75 (AHOHIP_Fe1) 0.0
+1.56494   717 0.0259 0.27 (NIQFUP06_Fe1) 0.025804476676
+0.02202 
+0.02244 
+N       
+1.76440   674 0.0268 0.75 (AHOHIP_Fe1) 0.0
+1.56494   717 0.0259 0.27 (NIQFUP06_Fe1) 0.0120052318343
+0.02202 
+0.02244 
+Optimization terminated successfully.
+Current function value: 36.647543
+Iterations: 49
+Function evaluations: 93
+Final element counts:
+[('N', 674)]
+[('N', 717)]
+
+# 2014 data Fe 2
+N       
+1.55927   448 0.0224 0.31 (CESTOJ_Fe1) 0.00426100022261
+1.77147   275 0.0264 0.55 (NELGOA_Fe1) 0.0127146518381
+0.02287 
+0.01922 
+N       
+1.55927   448 0.0224 0.31 (CESTOJ_Fe1) 0.00426100022261
+1.77147   275 0.0264 0.55 (NELGOA_Fe1) 0.0127146518381
+0.02287 
+0.01922 
+N       
+1.55927   448 0.0224 0.31 (CESTOJ_Fe1) 0.000462225526869
+1.77147   275 0.0264 0.55 (NELGOA_Fe1) 0.00253162071035
+0.02287 
+0.01922 
+Optimization terminated successfully.
+Current function value: 17.298631
+Iterations: 51
+Function evaluations: 95
+Final element counts:
+[('N', 448)]
+[('N', 275)]
+
+# 2015 data Fe 2
+N       
+1.57796    74 0.0311 0.23 (CESTOJ_Fe1) 0.0
+1.76558   448 0.0163 0.58 (NELGOA_Fe1) 0.00119881318718
+0.01316 
+0.02268 
+N       
+1.57796    74 0.0311 0.23 (CESTOJ_Fe1) 0.0
+1.76558   448 0.0163 0.58 (NELGOA_Fe1) 0.00119881318718
+0.01316 
+0.02268 
+N       
+1.57796    74 0.0311 0.23 (CESTOJ_Fe1) 0.0
+1.76558   448 0.0163 0.58 (NELGOA_Fe1) 0.00119881318718
+0.01316 
+0.02268 
+Optimization terminated successfully.
+Current function value: 9.610090
+Iterations: 52
+Function evaluations: 100
+Final element counts:
+[('N', 74)]
+[('N', 448)]
+
+# 2015 data Fe 2 2.8A
+N       
+1.76414   751 0.0206 0.58 (NELGOA_Fe1) 0.0262458292087
+1.57146   497 0.0266 0.26 (CESTOJ_Fe1) 0.0
+0.02106 
+0.02040 
+N       
+1.76414   751 0.0206 0.58 (NELGOA_Fe1) 0.0262458292087
+1.57146   497 0.0266 0.26 (CESTOJ_Fe1) 0.0
+0.02106 
+0.02040 
+N       
+1.76414   751 0.0206 0.58 (NELGOA_Fe1) 0.0154583562694
+1.57146   497 0.0266 0.26 (CESTOJ_Fe1) 0.0
+0.02106 
+0.02040 
+Optimization terminated successfully.
+Current function value: 28.688059
+Iterations: 47
+Function evaluations: 88
+Final element counts:
+[('N', 751)]
+[('N', 497)]
+
+# 2015 data Fe 2 2.8A no carbon
+N       
+1.56446   837 0.0303 0.28 (EBOTOG01_Fe1) 0.0387018470636
+1.76719   883 0.0671 1.75 (QOSGIP_Fe1) 0.0182331744837
+0.02370 
+0.04371 
+N       
+1.56446   837 0.0303 0.28 (EBOTOG01_Fe1) 0.0296722331495
+1.76719   883 0.0671 1.75 (QOSGIP_Fe1) 0.0223762782784
+0.02370 
+0.04371 
+N       
+1.56446   837 0.0303 0.28 (EBOTOG01_Fe1) 0.00353658203214
+1.76719   883 0.0671 1.75 (QOSGIP_Fe1) 0.0124402093179
+0.02370 
+0.04371 
+Optimization terminated successfully.
+Current function value: 84.568874
+Iterations: 48
+Function evaluations: 94
+Final element counts:
+[('N', 837)]
+[('N', 883)]
+
+# 2013 data Fe 3
+N       
+1.69955   131 0.0365 0.27 (OFUREM_Fe1) 0.00535769688136
+1.82188    50 0.0607 0.49 (KEFFEG_Fe1) 0.0
+0.02009 
+0.01646 
+N       
+1.69955   131 0.0365 0.27 (OFUREM_Fe1) 0.00511896896598
+1.82188    50 0.0607 0.49 (KEFFEG_Fe1) 0.0
+0.02009 
+0.01646 
+N       
+1.69955   131 0.0365 0.27 (OFUREM_Fe1) 0.00347165488849
+1.82188    50 0.0607 0.49 (KEFFEG_Fe1) 0.0
+0.02009 
+0.01646 
+Optimization terminated successfully.
+Current function value: 7.814294
+Iterations: 56
+Function evaluations: 105
+Final element counts:
+[('N', 131)]
+[('N', 50)]
+
+
+# 2014 data Fe 3
+N       
+1.81989    40 0.0705 0.51 (KEFFEG_Fe1) 0.0
+1.69813   115 0.0328 0.26 (OFUREM_Fe1) 0.00347350204997
+0.01730 
+0.01922 
+N       
+1.81989    40 0.0705 0.51 (KEFFEG_Fe1) 0.0
+1.69813   115 0.0328 0.26 (OFUREM_Fe1) 0.00350129357287
+0.01730 
+0.01922 
+N       
+1.81989    40 0.0705 0.51 (KEFFEG_Fe1) 0.0
+1.69813   115 0.0328 0.26 (OFUREM_Fe1) 0.00157224220818
+0.01730 
+0.01922 
+Optimization terminated successfully.
+Current function value: 6.594482
+Iterations: 63
+Function evaluations: 117
+Final element counts:
+[('N', 40)]
+[('N', 115)]
+
+
+# 2015 data Fe 3
+N       
+1.83289    24 0.1082 0.43 (FIZYEU02_Fe1B) 0.00336708444398
+1.70409    40 0.0190 0.13 (MODXOS_Fe1) 0.00127870246306
+0.02659 
+0.01380 
+N       
+1.83289    24 0.1082 0.43 (FIZYEU02_Fe1B) 0.00336708444398
+1.70409    40 0.0190 0.13 (MODXOS_Fe1) 0.00127870246306
+0.02659 
+0.01380 
+N       
+1.83289    24 0.1082 0.43 (FIZYEU02_Fe1B) 0.00131987650376
+1.70409    40 0.0190 0.13 (MODXOS_Fe1) 0.0009895586557
+0.02659 
+0.01380 
+Optimization terminated successfully.
+Current function value: 3.356592
+Iterations: 50
+Function evaluations: 93
+Final element counts:
+[('N', 24)]
+[('N', 40)]
+
+# 2015 data Fe 3 2.8A
+N       
+1.70414   114 0.0317 0.23 (BERJIS_Fe1) 0.00470803178563
+1.82790    62 0.1057 0.49 (QIQCIE_Fe1A) 0.0
+0.01768 
+0.02543 
+N       
+1.70414   114 0.0317 0.23 (BERJIS_Fe1) 0.00470803178563
+1.82790    62 0.1057 0.49 (QIQCIE_Fe1A) 0.0
+0.01768 
+0.02543 
+N       
+1.70414   114 0.0317 0.23 (BERJIS_Fe1) 0.00331045135091
+1.82790    62 0.1057 0.49 (QIQCIE_Fe1A) 0.0
+0.01768 
+0.02543 
+Optimization terminated successfully.
+Current function value: 10.164293
+Iterations: 50
+Function evaluations: 93
+Final element counts:
+[('N', 114)]
+[('N', 62)]
+
+# 2015 data Fe 3 2.8A no carbon
+N       
+1.74125   282 0.2730 0.89 (OFUREM_Fe1) 0.0218458156378
+2.00074   344 0.3883 1.40 (SEDREZ_Fe1) 0.000618158528874
+0.04618 
+0.06496 
+N       
+1.74126   282 0.2730 0.89 (OFUREM_Fe1) 0.0187909843124
+2.00074   344 0.3883 1.40 (SEDREZ_Fe1) 0.00707807148315
+0.04618 
+0.06496 
+N       
+1.74126   282 0.2730 0.89 (OFUREM_Fe1) 0.00580771436229
+2.00074   344 0.3883 1.40 (SEDREZ_Fe1) 0.0137363435749
+0.04618 
+0.06496 
+Optimization terminated successfully.
+Current function value: 210.574617
+Iterations: 55
+Function evaluations: 107
+Final element counts:
+[('N', 282)]
+[('N', 344)]
