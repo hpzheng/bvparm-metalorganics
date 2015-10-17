@@ -24,9 +24,9 @@ anion_valences = {  'N' : -3, 'P' : -3,
                     'O' : -2, 'S' : -2, 'Se' : -2,
                     'F' : -1, 'Cl' : -1, 'Br' : -1, 'I' : -1 }
 #anion_selection = ['N', "O", 'F', 'P', 'S', 'Cl', 'Se', 'Br', 'I']
-#anion_selection = ['N', "O", 'F', 'S', 'Cl', 'Br']
+anion_selection = ['N', "O", 'F', 'S', 'Cl', 'Br']
 #anion_selection = ['N', 'O']
-anion_selection = ["N"]
+#anion_selection = ["N"]
 nanions = len(anion_selection)
 
 # This helper function takes an atom name and extracts the element name from it,
@@ -202,7 +202,7 @@ if __name__ == "__main__":
     # different format than before, and contain only the column we need.
     # dists_all = csv2distances("initial_%s.csv" % cation_lbl)
     # dists_all = csv2distances("bvparam2014d_%s.csv" % cation_lbl)
-    dists_all = csv2distances("bvparam2015_2.8_%s.csv" % cation_lbl)
+    dists_all = csv2distances("../bvparam2015_2.8_%s.csv" % cation_lbl)
     
     dists = filter_sites(dists_all, cation_valence)
     picks = [random.choice(range(degeneracy)) for d in dists]
